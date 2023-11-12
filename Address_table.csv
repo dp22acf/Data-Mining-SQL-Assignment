@@ -1,0 +1,11 @@
+Address_ID,Address,City,PostCode
+A123,"123 Main St, Springfield, IL 62701",Springfield,IL 62701
+B234,"456 Elm St, Rivertown, CA 90210",Rivertown,CA 90210
+C345,"789 Oak St, Lakeside, TX 75001",Lakeside,TX 75001
+D456,"101 Pine St, Mountainview, AZ 85001",Mountainview,AZ 85001
+E567,"202 Cedar St, Seaville, FL 33101",Seaville,FL 33101
+F678,"303 Maple St, Greentown, OH 44301",Greentown,OH 44301
+G789,"404 Birch St, Hilltop, NY 10001",Hilltop,NY 10001
+H890,"505 Walnut St, Lakeshore, PA 19001",Lakeshore,PA 19001
+I901,"606 Cherry St, Woodland, WA 98601",Woodland,WA 98601
+J012,"707 Spruce St, Hillcrest, CO 80201",Hillcrest,CO 80201
